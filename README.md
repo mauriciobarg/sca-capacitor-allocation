@@ -1,6 +1,7 @@
 # sca-capacitor-allocation
 
 Optimal capacitor allocation in distribution systems using the Sine Cosine Algorithm (http://www.alimirjalili.com/SCA.html).
+Sine Cosine Algorithm is a metaheuristic technique heavily inspired by genetic algorithms and PSO.
 The simulations are run using OpenDSS (https://sourceforge.net/projects/electricdss/), so make sure to install that.
 
 This was done as my final project for a electrical engineer degree.
